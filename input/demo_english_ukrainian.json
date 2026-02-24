@@ -1,0 +1,136 @@
+{
+  "nazva": "English-Ukrainian Demo",
+  "typ": "en-uk",
+  "slova": [
+    {
+      "slovo": "power",
+      "tlumachennia": [
+        "сила",
+        "потужність",
+        "влада"
+      ]
+    },
+    {
+      "slovo": "energy",
+      "tlumachennia": [
+        "енергія",
+        "життєва сила"
+      ]
+    },
+    {
+      "slovo": "light",
+      "tlumachennia": [
+        "світло",
+        "легкий",
+        "освітлення"
+      ]
+    },
+    {
+      "slovo": "system",
+      "tlumachennia": [
+        "система",
+        "порядок"
+      ]
+    },
+    {
+      "slovo": "network",
+      "tlumachennia": [
+        "мережа"
+      ]
+    },
+    {
+      "slovo": "database",
+      "tlumachennia": [
+        "база даних"
+      ]
+    },
+    {
+      "slovo": "import",
+      "tlumachennia": [
+        "імпорт",
+        "ввезення"
+      ]
+    },
+    {
+      "slovo": "export",
+      "tlumachennia": [
+        "експорт",
+        "вивезення"
+      ]
+    },
+    {
+      "slovo": "language",
+      "tlumachennia": [
+        "мова"
+      ]
+    },
+    {
+      "slovo": "dictionary",
+      "tlumachennia": [
+        "словник"
+      ]
+    },
+    {
+      "slovo": "developer",
+      "tlumachennia": [
+        "розробник"
+      ]
+    },
+    {
+      "slovo": "server",
+      "tlumachennia": [
+        "сервер"
+      ]
+    },
+    {
+      "slovo": "client",
+      "tlumachennia": [
+        "клієнт"
+      ]
+    },
+    {
+      "slovo": "application",
+      "tlumachennia": [
+        "застосунок",
+        "додаток"
+      ]
+    },
+    {
+      "slovo": "data",
+      "tlumachennia": [
+        "дані"
+      ]
+    },
+    {
+      "slovo": "project",
+      "tlumachennia": [
+        "проєкт"
+      ]
+    },
+    {
+      "slovo": "version",
+      "tlumachennia": [
+        "версія"
+      ]
+    },
+    {
+      "slovo": "report",
+      "tlumachennia": [
+        "звіт"
+      ]
+    },
+    {
+      "slovo": "search",
+      "tlumachennia": [
+        "пошук"
+      ]
+    },
+    {
+      "slovo": "update",
+      "tlumachennia": [
+        "оновлення",
+        "оновити"
+      ]
+    }
+  ]
+}

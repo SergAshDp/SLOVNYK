@@ -1,0 +1,795 @@
+[
+  {
+    "id": 1,
+    "nazva": "Демо англійсько-український словник 1",
+    "typ": "en-uk",
+    "created_at": "2026-02-24 15:33:51",
+    "slova": [
+      {
+        "id": 1,
+        "slovo": "word_1",
+        "tlumachennia": [
+          "переклад 1",
+          "пояснення 1"
+        ]
+      },
+      {
+        "id": 10,
+        "slovo": "word_10",
+        "tlumachennia": [
+          "переклад 10",
+          "пояснення 10"
+        ]
+      },
+      {
+        "id": 11,
+        "slovo": "word_11",
+        "tlumachennia": [
+          "переклад 11",
+          "пояснення 11"
+        ]
+      },
+      {
+        "id": 12,
+        "slovo": "word_12",
+        "tlumachennia": [
+          "переклад 12"
+        ]
+      },
+      {
+        "id": 13,
+        "slovo": "word_13",
+        "tlumachennia": [
+          "переклад 13",
+          "пояснення 13"
+        ]
+      },
+      {
+        "id": 14,
+        "slovo": "word_14",
+        "tlumachennia": [
+          "переклад 14",
+          "пояснення 14"
+        ]
+      },
+      {
+        "id": 15,
+        "slovo": "word_15",
+        "tlumachennia": [
+          "переклад 15"
+        ]
+      },
+      {
+        "id": 16,
+        "slovo": "word_16",
+        "tlumachennia": [
+          "переклад 16",
+          "пояснення 16"
+        ]
+      },
+      {
+        "id": 17,
+        "slovo": "word_17",
+        "tlumachennia": [
+          "переклад 17",
+          "пояснення 17"
+        ]
+      },
+      {
+        "id": 18,
+        "slovo": "word_18",
+        "tlumachennia": [
+          "переклад 18"
+        ]
+      },
+      {
+        "id": 19,
+        "slovo": "word_19",
+        "tlumachennia": [
+          "переклад 19",
+          "пояснення 19"
+        ]
+      },
+      {
+        "id": 2,
+        "slovo": "word_2",
+        "tlumachennia": [
+          "переклад 2",
+          "пояснення 2"
+        ]
+      },
+      {
+        "id": 20,
+        "slovo": "word_20",
+        "tlumachennia": [
+          "переклад 20",
+          "пояснення 20"
+        ]
+      },
+      {
+        "id": 21,
+        "slovo": "word_21",
+        "tlumachennia": [
+          "переклад 21"
+        ]
+      },
+      {
+        "id": 22,
+        "slovo": "word_22",
+        "tlumachennia": [
+          "переклад 22",
+          "пояснення 22"
+        ]
+      },
+      {
+        "id": 23,
+        "slovo": "word_23",
+        "tlumachennia": [
+          "переклад 23",
+          "пояснення 23"
+        ]
+      },
+      {
+        "id": 24,
+        "slovo": "word_24",
+        "tlumachennia": [
+          "переклад 24"
+        ]
+      },
+      {
+        "id": 25,
+        "slovo": "word_25",
+        "tlumachennia": [
+          "переклад 25",
+          "пояснення 25"
+        ]
+      },
+      {
+        "id": 26,
+        "slovo": "word_26",
+        "tlumachennia": [
+          "переклад 26",
+          "пояснення 26"
+        ]
+      },
+      {
+        "id": 27,
+        "slovo": "word_27",
+        "tlumachennia": [
+          "переклад 27"
+        ]
+      },
+      {
+        "id": 28,
+        "slovo": "word_28",
+        "tlumachennia": [
+          "переклад 28",
+          "пояснення 28"
+        ]
+      },
+      {
+        "id": 29,
+        "slovo": "word_29",
+        "tlumachennia": [
+          "переклад 29",
+          "пояснення 29"
+        ]
+      },
+      {
+        "id": 3,
+        "slovo": "word_3",
+        "tlumachennia": [
+          "переклад 3"
+        ]
+      },
+      {
+        "id": 30,
+        "slovo": "word_30",
+        "tlumachennia": [
+          "переклад 30"
+        ]
+      },
+      {
+        "id": 31,
+        "slovo": "word_31",
+        "tlumachennia": [
+          "переклад 31",
+          "пояснення 31"
+        ]
+      },
+      {
+        "id": 32,
+        "slovo": "word_32",
+        "tlumachennia": [
+          "переклад 32",
+          "пояснення 32"
+        ]
+      },
+      {
+        "id": 33,
+        "slovo": "word_33",
+        "tlumachennia": [
+          "переклад 33"
+        ]
+      },
+      {
+        "id": 34,
+        "slovo": "word_34",
+        "tlumachennia": [
+          "переклад 34",
+          "пояснення 34"
+        ]
+      },
+      {
+        "id": 35,
+        "slovo": "word_35",
+        "tlumachennia": [
+          "переклад 35",
+          "пояснення 35"
+        ]
+      },
+      {
+        "id": 36,
+        "slovo": "word_36",
+        "tlumachennia": [
+          "переклад 36"
+        ]
+      },
+      {
+        "id": 37,
+        "slovo": "word_37",
+        "tlumachennia": [
+          "переклад 37",
+          "пояснення 37"
+        ]
+      },
+      {
+        "id": 38,
+        "slovo": "word_38",
+        "tlumachennia": [
+          "переклад 38",
+          "пояснення 38"
+        ]
+      },
+      {
+        "id": 39,
+        "slovo": "word_39",
+        "tlumachennia": [
+          "переклад 39"
+        ]
+      },
+      {
+        "id": 4,
+        "slovo": "word_4",
+        "tlumachennia": [
+          "переклад 4",
+          "пояснення 4"
+        ]
+      },
+      {
+        "id": 40,
+        "slovo": "word_40",
+        "tlumachennia": [
+          "переклад 40",
+          "пояснення 40"
+        ]
+      },
+      {
+        "id": 41,
+        "slovo": "word_41",
+        "tlumachennia": [
+          "переклад 41",
+          "пояснення 41"
+        ]
+      },
+      {
+        "id": 42,
+        "slovo": "word_42",
+        "tlumachennia": [
+          "переклад 42"
+        ]
+      },
+      {
+        "id": 43,
+        "slovo": "word_43",
+        "tlumachennia": [
+          "переклад 43",
+          "пояснення 43"
+        ]
+      },
+      {
+        "id": 44,
+        "slovo": "word_44",
+        "tlumachennia": [
+          "переклад 44",
+          "пояснення 44"
+        ]
+      },
+      {
+        "id": 45,
+        "slovo": "word_45",
+        "tlumachennia": [
+          "переклад 45"
+        ]
+      },
+      {
+        "id": 46,
+        "slovo": "word_46",
+        "tlumachennia": [
+          "переклад 46",
+          "пояснення 46"
+        ]
+      },
+      {
+        "id": 47,
+        "slovo": "word_47",
+        "tlumachennia": [
+          "переклад 47",
+          "пояснення 47"
+        ]
+      },
+      {
+        "id": 48,
+        "slovo": "word_48",
+        "tlumachennia": [
+          "переклад 48"
+        ]
+      },
+      {
+        "id": 49,
+        "slovo": "word_49",
+        "tlumachennia": [
+          "переклад 49",
+          "пояснення 49"
+        ]
+      },
+      {
+        "id": 5,
+        "slovo": "word_5",
+        "tlumachennia": [
+          "переклад 5",
+          "пояснення 5"
+        ]
+      },
+      {
+        "id": 50,
+        "slovo": "word_50",
+        "tlumachennia": [
+          "переклад 50",
+          "пояснення 50"
+        ]
+      },
+      {
+        "id": 6,
+        "slovo": "word_6",
+        "tlumachennia": [
+          "переклад 6"
+        ]
+      },
+      {
+        "id": 7,
+        "slovo": "word_7",
+        "tlumachennia": [
+          "переклад 7",
+          "пояснення 7"
+        ]
+      },
+      {
+        "id": 8,
+        "slovo": "word_8",
+        "tlumachennia": [
+          "переклад 8",
+          "пояснення 8"
+        ]
+      },
+      {
+        "id": 9,
+        "slovo": "word_9",
+        "tlumachennia": [
+          "переклад 9"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nazva": "Демо англійсько-український словник 2",
+    "typ": "en-uk",
+    "created_at": "2026-02-24 15:33:51",
+    "slova": [
+      {
+        "id": 51,
+        "slovo": "term_1",
+        "tlumachennia": [
+          "переклад 1",
+          "пояснення 1"
+        ]
+      },
+      {
+        "id": 60,
+        "slovo": "term_10",
+        "tlumachennia": [
+          "переклад 10",
+          "пояснення 10"
+        ]
+      },
+      {
+        "id": 61,
+        "slovo": "term_11",
+        "tlumachennia": [
+          "переклад 11",
+          "пояснення 11"
+        ]
+      },
+      {
+        "id": 62,
+        "slovo": "term_12",
+        "tlumachennia": [
+          "переклад 12"
+        ]
+      },
+      {
+        "id": 63,
+        "slovo": "term_13",
+        "tlumachennia": [
+          "переклад 13",
+          "пояснення 13"
+        ]
+      },
+      {
+        "id": 64,
+        "slovo": "term_14",
+        "tlumachennia": [
+          "переклад 14",
+          "пояснення 14"
+        ]
+      },
+      {
+        "id": 65,
+        "slovo": "term_15",
+        "tlumachennia": [
+          "переклад 15"
+        ]
+      },
+      {
+        "id": 66,
+        "slovo": "term_16",
+        "tlumachennia": [
+          "переклад 16",
+          "пояснення 16"
+        ]
+      },
+      {
+        "id": 67,
+        "slovo": "term_17",
+        "tlumachennia": [
+          "переклад 17",
+          "пояснення 17"
+        ]
+      },
+      {
+        "id": 68,
+        "slovo": "term_18",
+        "tlumachennia": [
+          "переклад 18"
+        ]
+      },
+      {
+        "id": 69,
+        "slovo": "term_19",
+        "tlumachennia": [
+          "переклад 19",
+          "пояснення 19"
+        ]
+      },
+      {
+        "id": 52,
+        "slovo": "term_2",
+        "tlumachennia": [
+          "переклад 2",
+          "пояснення 2"
+        ]
+      },
+      {
+        "id": 70,
+        "slovo": "term_20",
+        "tlumachennia": [
+          "переклад 20",
+          "пояснення 20"
+        ]
+      },
+      {
+        "id": 71,
+        "slovo": "term_21",
+        "tlumachennia": [
+          "переклад 21"
+        ]
+      },
+      {
+        "id": 72,
+        "slovo": "term_22",
+        "tlumachennia": [
+          "переклад 22",
+          "пояснення 22"
+        ]
+      },
+      {
+        "id": 73,
+        "slovo": "term_23",
+        "tlumachennia": [
+          "переклад 23",
+          "пояснення 23"
+        ]
+      },
+      {
+        "id": 74,
+        "slovo": "term_24",
+        "tlumachennia": [
+          "переклад 24"
+        ]
+      },
+      {
+        "id": 75,
+        "slovo": "term_25",
+        "tlumachennia": [
+          "переклад 25",
+          "пояснення 25"
+        ]
+      },
+      {
+        "id": 76,
+        "slovo": "term_26",
+        "tlumachennia": [
+          "переклад 26",
+          "пояснення 26"
+        ]
+      },
+      {
+        "id": 77,
+        "slovo": "term_27",
+        "tlumachennia": [
+          "переклад 27"
+        ]
+      },
+      {
+        "id": 78,
+        "slovo": "term_28",
+        "tlumachennia": [
+          "переклад 28",
+          "пояснення 28"
+        ]
+      },
+      {
+        "id": 79,
+        "slovo": "term_29",
+        "tlumachennia": [
+          "переклад 29",
+          "пояснення 29"
+        ]
+      },
+      {
+        "id": 53,
+        "slovo": "term_3",
+        "tlumachennia": [
+          "переклад 3"
+        ]
+      },
+      {
+        "id": 80,
+        "slovo": "term_30",
+        "tlumachennia": [
+          "переклад 30"
+        ]
+      },
+      {
+        "id": 81,
+        "slovo": "term_31",
+        "tlumachennia": [
+          "переклад 31",
+          "пояснення 31"
+        ]
+      },
+      {
+        "id": 82,
+        "slovo": "term_32",
+        "tlumachennia": [
+          "переклад 32",
+          "пояснення 32"
+        ]
+      },
+      {
+        "id": 83,
+        "slovo": "term_33",
+        "tlumachennia": [
+          "переклад 33"
+        ]
+      },
+      {
+        "id": 84,
+        "slovo": "term_34",
+        "tlumachennia": [
+          "переклад 34",
+          "пояснення 34"
+        ]
+      },
+      {
+        "id": 85,
+        "slovo": "term_35",
+        "tlumachennia": [
+          "переклад 35",
+          "пояснення 35"
+        ]
+      },
+      {
+        "id": 86,
+        "slovo": "term_36",
+        "tlumachennia": [
+          "переклад 36"
+        ]
+      },
+      {
+        "id": 87,
+        "slovo": "term_37",
+        "tlumachennia": [
+          "переклад 37",
+          "пояснення 37"
+        ]
+      },
+      {
+        "id": 88,
+        "slovo": "term_38",
+        "tlumachennia": [
+          "переклад 38",
+          "пояснення 38"
+        ]
+      },
+      {
+        "id": 89,
+        "slovo": "term_39",
+        "tlumachennia": [
+          "переклад 39"
+        ]
+      },
+      {
+        "id": 54,
+        "slovo": "term_4",
+        "tlumachennia": [
+          "переклад 4",
+          "пояснення 4"
+        ]
+      },
+      {
+        "id": 90,
+        "slovo": "term_40",
+        "tlumachennia": [
+          "переклад 40",
+          "пояснення 40"
+        ]
+      },
+      {
+        "id": 91,
+        "slovo": "term_41",
+        "tlumachennia": [
+          "переклад 41",
+          "пояснення 41"
+        ]
+      },
+      {
+        "id": 92,
+        "slovo": "term_42",
+        "tlumachennia": [
+          "переклад 42"
+        ]
+      },
+      {
+        "id": 93,
+        "slovo": "term_43",
+        "tlumachennia": [
+          "переклад 43",
+          "пояснення 43"
+        ]
+      },
+      {
+        "id": 94,
+        "slovo": "term_44",
+        "tlumachennia": [
+          "переклад 44",
+          "пояснення 44"
+        ]
+      },
+      {
+        "id": 95,
+        "slovo": "term_45",
+        "tlumachennia": [
+          "переклад 45"
+        ]
+      },
+      {
+        "id": 96,
+        "slovo": "term_46",
+        "tlumachennia": [
+          "переклад 46",
+          "пояснення 46"
+        ]
+      },
+      {
+        "id": 97,
+        "slovo": "term_47",
+        "tlumachennia": [
+          "переклад 47",
+          "пояснення 47"
+        ]
+      },
+      {
+        "id": 98,
+        "slovo": "term_48",
+        "tlumachennia": [
+          "переклад 48"
+        ]
+      },
+      {
+        "id": 101,
+        "slovo": "term_49",
+        "tlumachennia": [
+          "переклад 49",
+          "пояснення 49"
+        ]
+      },
+      {
+        "id": 55,
+        "slovo": "term_5",
+        "tlumachennia": [
+          "переклад 5",
+          "пояснення 5"
+        ]
+      },
+      {
+        "id": 102,
+        "slovo": "term_50",
+        "tlumachennia": [
+          "переклад 50",
+          "пояснення 50"
+        ]
+      },
+      {
+        "id": 56,
+        "slovo": "term_6",
+        "tlumachennia": [
+          "переклад 6"
+        ]
+      },
+      {
+        "id": 57,
+        "slovo": "term_7",
+        "tlumachennia": [
+          "переклад 7",
+          "пояснення 7"
+        ]
+      },
+      {
+        "id": 58,
+        "slovo": "term_8",
+        "tlumachennia": [
+          "переклад 8",
+          "пояснення 8"
+        ]
+      },
+      {
+        "id": 59,
+        "slovo": "term_9",
+        "tlumachennia": [
+          "переклад 9"
+        ]
+      },
+      {
+        "id": 100,
+        "slovo": "пррррррррррррррр",
+        "tlumachennia": [
+          "апролкрокарно",
+          "пояснення 50",
+          "еоеоепое"
+        ]
+      }
+    ]
+  }
+]

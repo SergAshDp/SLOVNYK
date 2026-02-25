@@ -15,8 +15,7 @@ from .io_json import (
     export_one_word_to_json, import_from_json
 )
 
-# Псевдоніми для сумісності назв після розділення файлів.
-# Я залишив назви, які вже використовуються у пунктах меню, щоб не міняти логіку програми.
+
 slovnyky_list = dictionaries_list
 slovnyk_create = dictionary_create
 slovnyk_edit = dictionary_edit
